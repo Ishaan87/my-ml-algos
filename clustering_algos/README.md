@@ -10,6 +10,8 @@
 we find the number of clusters using Elbow Curve.
 it is a curve between WCSS (within clusters sum of squared distances, also called inertia) and number of clusters.
 
+we look for the elbow point, which in this case is clearly n=4
+
 <img src="./elbow.png">
 
 
